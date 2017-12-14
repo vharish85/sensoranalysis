@@ -1,16 +1,3 @@
-### IDEAL ZONE DETECTION - PERIPHERAL SMEAR ###
-
-"""
-Created on Wed July 26, 2017
-
-@author: Subbashini Shanmugam
-
-"""
-
-###############################################################################
-
-###############################################################################
-
 import os
 import cv2
 import imutils
